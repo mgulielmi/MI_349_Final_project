@@ -28,3 +28,26 @@ img{
 float: left;
 padding-right: 10px;
 }
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #a62a22;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: #59c0c8;
+    background-color: transparent;
+    text-decoration: underline;
+  }
