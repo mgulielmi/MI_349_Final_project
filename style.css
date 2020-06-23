@@ -51,3 +51,7 @@ a:link {
     background-color: transparent;
     text-decoration: underline;
   }
+  #list {
+    list-style-position: inside;
+    text-align: center;
+   }
